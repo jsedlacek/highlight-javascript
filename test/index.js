@@ -1,7 +1,7 @@
 
 var assert = require('assert');
 var Highlight = require('highlight');
-var javascript = require('highlight-javascript');
+var javascript = require('../lib');
 
 var h;
 
